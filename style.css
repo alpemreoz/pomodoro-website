@@ -30,3 +30,27 @@ body{
     font-weight: lighter;
     
 }
+.hrdivider {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+    
+  }
+  
+  
+  .hrdivider span {
+    position: absolute;
+    top: -11px;
+    background: #373737;
+    padding: 0 20px;
+    font-weight: lighter;
+    font-size: 20px;
+    color: #fff;
+    margin-left: -4rem;
+  }
+  .form-control{
+      border-color: #fff;
+  }
+  
