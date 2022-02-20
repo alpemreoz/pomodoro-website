@@ -1,0 +1,32 @@
+#nav-bar{
+    background-color: #1f4d7a;  
+}
+
+#navbarSupportedContent a{
+    color: #fff;
+}
+.nav-link{
+    margin-right: 1rem;
+}
+body{
+    background-color: #373737;
+}
+#pomodoro-timer{
+    margin-top: 2rem;
+    
+}
+.pomodoro-setup{
+    list-style: none;
+    float: left;
+    position: fixed;
+}
+
+.pomodoro-card{
+    background-color:green;
+}
+.timer h1{
+    display: inline;
+    color: #fff;
+    font-weight: lighter;
+    
+}
