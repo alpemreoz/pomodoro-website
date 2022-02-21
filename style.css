@@ -53,4 +53,59 @@ body{
   .form-control{
       border-color: #fff;
   }
-  
+  .yapilacak-list h4{
+    margin-left: 22rem; 
+    margin-top: 1rem;
+    color: #438ad0;
+    font-weight: lighter;
+  }
+  .yapilacak-list h6{
+    margin-left: 19rem; 
+    margin-top: 1rem;
+    color: #fff;
+    font-weight: lighter;
+  }
+  .carousel-indicators{
+    top: 200px;
+    }
+    .carousel-indicators li {
+        border-radius: 50%;
+        width: 12px;
+        height: 12px;
+        
+    }
+    .slider-main{
+    margin-top: 22px;
+    }
+    .carousel-inner{
+    width: 95%;
+    }
+    .carousel-inner .carousel-item h3{
+    display: inline-block;
+    opacity: 0.5;
+    color: #999;
+    
+    
+    }
+    .carousel-inner .carousel-item p{
+    font-size: 17px;
+    color: #999;
+    }
+    .carousel-inner .carousel-item ul{
+        color: #999;
+    }
+    .carousel-inner .carousel-item ol{
+        color: #999;
+    }
+    @media (max-width: 3600px) {
+    .carousel-indicators{
+    top: 320px;
+    
+    }
+    }
+    .carousel-control-prev{
+        width: auto;
+    }
+    .carousel-control-next{
+        width: auto;
+    }
